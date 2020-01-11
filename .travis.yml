@@ -23,5 +23,5 @@ deploy:
   skip_cleanup: true # prevents travis from deleting the build
   provider: heroku
   app: heroku-fsa-app # see README
-  # api_key:
-  #   secure: YOUR-***ENCRYPTED***-API-KEY-HERE
+  api_key:
+    secure: "dxH0D2c3FdIr9VH09udxVcc1letScP69SCJEptuVCUc9fKu7mhxNwkkX+aM2MJlOEDyJXGjFcByabt4EyX1o4lDIWFx1scRw+ltHxv1JHiO5zf1HTF46nVxfe+nagqDsTFjvgAhbLHFo7CVjhUkcswA6g5ShKIFEfLxNWT4a4HBDHDXFsVvyUEXQ8UxmH2mJ1Yu1iowS+oIvL1PWF8mY1Szq9Mc6icgXO4hcoqwXGLm2DGmZmoKZuihU5GuO28mv0Zr8FB0K4cfc9H4MJqzSXM0EIePWspIIiIKS+gBIRbWTKZW2XfRGzUZsEvRGbekxF2lQIp5pcefkgoRj0v2dd8YONZo+JZxdVxGaC3G4G0P0LFLG6NpChtqqjxleUbft9i0reTo6mDuwx8gs5C7mKpgd2dTfm7FGbI7knJxMRNSa/bw24EtImhavE1DYXbL0k3KgyDA8URXKKxp2tplwNcyjJfFs+B1/EiGdyHxcy27ern7FCZKh/Z2cz1v1Wz0tK91l6vyjpuNwO7ys/musNNQTevpNGN8Yeu1q12WdpFf+ZFC2zytVhm/m3IP6444yHNX9MviBAaoSGaZ3wxUKxvPlwkEraZHfsGUKsD3sDVC6iZBmSMAi+I0cG3inpRlyhJTWMjc7cyvRyGf2RZeSvWaEyTopw5ej1duN8Q7278E="
